@@ -1,1 +1,1 @@
-Proyecto para el ramo Taller de programacion en dispocitivos moviles.
+Proyecto para el ramo Taller de programacion en dispositivos moviles.
